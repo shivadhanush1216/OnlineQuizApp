@@ -4,7 +4,7 @@
 This is a simple quiz application built using React and Redux. Users can log in, take a quiz, view results, and see correct answers.
 
 ## Deployment
-[click here](online-quiz-app-six.vercel.app)
+[click here](https://online-quiz-app-six.vercel.app/)
 
 ## Features
 - User login/logout functionality
