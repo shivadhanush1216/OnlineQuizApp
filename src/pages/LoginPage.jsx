@@ -8,7 +8,7 @@ export default function LoginPage({ setUser }) {
 
   const handleLogin = () => {
     if (username.trim() !== "") {
-      setUser(username); 
+      setUser(username);
       navigate("/takequiz");
     } else {
       alert("Please enter a username!");
