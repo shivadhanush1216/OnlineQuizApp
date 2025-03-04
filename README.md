@@ -3,6 +3,9 @@
 ## Description
 This is a simple quiz application built using React and Redux. Users can log in, take a quiz, view results, and see correct answers.
 
+## Deployment
+[click here](https://online-quiz-app-six.vercel.app/)
+
 ## Features
 - User login/logout functionality
 - Quiz with multiple-choice questions
@@ -11,16 +14,16 @@ This is a simple quiz application built using React and Redux. Users can log in,
 - View correct and incorrect answers
 
 ## Installation
-1. Clone the repository:
+### 1. Clone the repository:
 git clone https://github.com/your-repo/quiz-app.git
 
-2. Navigate to the project folder:
+### 2. Navigate to the project folder:
 cd quiz-app
 
-3. Install dependencies:
+### 3. Install dependencies:
 npm install
 
-4. Start the app:
+### 4. Start the app:
 npm start
 
 
